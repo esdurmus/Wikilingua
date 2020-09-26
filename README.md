@@ -31,7 +31,7 @@ ______________________________
 | Turkish     |     4,503     |
 
 * **data/** includes the full dataset. 
-* **splits/** includes train/validation/test splits (for Spanish, Russian, Vietnamese and Turkish) used in our experiments. 
+* **splits/** includes train, validation and test splits (for Spanish, Russian, Vietnamese and Turkish) used in our experiments. 
 
 
 
