@@ -1,4 +1,4 @@
-# Wikilingua: A Multilingual Abstractive Dataset
+# Wikilingua: A Multilingual Abstractive Dataset #
 
 This repo contains dataset introduced in the following paper: 
 
@@ -12,6 +12,7 @@ ______________________________
 | Language    | Num. parallel |
 | ----------- | --------------|
 | English     |   141,457     |
+|_____________________________|
 | Spanish     |   113,215     |
 | Portuguese  |    81,695     |
 | French      |    63,692     |
@@ -33,7 +34,7 @@ ______________________________
 * **data/** includes the full dataset. 
 * **splits/** includes train, validation and test splits (for Spanish, Russian, Vietnamese and Turkish) used in our experiments. 
 
-
+## Reference ##
 
 
 
