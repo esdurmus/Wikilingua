@@ -7,6 +7,7 @@ Summarization](<link>)
 
 The dataset includes ~770k article and summary pairs in 18 languages from WikiHow. We extracted gold-standard article-summary alignments across languages by aligning the images that are used to describe each how-to step in an article.
 
+The table below shows number of article-summary pairs with a parallel article-summary pair in English. 
 ______________________________
 | Language    | Num. parallel |
 | ----------- | --------------|
@@ -28,6 +29,10 @@ ______________________________
 | Hindi       |     9,929     |
 | Czech       |     7,200     |
 | Turkish     |     4,503     |
+
+* **data/** includes the full dataset. 
+* **splits/** includes train/validation/test splits (for Spanish, Russian, Vietnamese and Turkish) used in our experiments. 
+
 
 
 
