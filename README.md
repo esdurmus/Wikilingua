@@ -12,7 +12,6 @@ ______________________________
 | Language    | Num. parallel |
 | ----------- | --------------|
 | English     |   141,457     |
-|_____________________________|
 | Spanish     |   113,215     |
 | Portuguese  |    81,695     |
 | French      |    63,692     |
@@ -35,6 +34,10 @@ ______________________________
 * **splits/** includes train, validation and test splits (for Spanish, Russian, Vietnamese and Turkish) used in our experiments. 
 
 ## Reference ##
+
+Please cite the following paper: 
+
+
 
 
 
