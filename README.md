@@ -1,4 +1,4 @@
-# Wikilingua: A Multilingual Abstractive Dataset #
+# WikiLingua: A Multilingual Abstractive Dataset #
 
 This repo contains dataset introduced in the following paper: 
 
