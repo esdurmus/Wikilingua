@@ -3,7 +3,16 @@
 This repo contains dataset introduced in the following paper: 
 
 [WikiLingua: A New Benchmark Dataset for Multilingual Abstractive
-Summarization](<link>) 
+Summarization](https://drive.google.com/drive/folders/1PFvXUOsW_KSEzFm5ixB8J8BDB8zRRfHW?usp=sharing) 
+
+Please refer to this [Collab notebook](https://colab.research.google.com/drive/1HxonmcM7EOQVal2I6oTi9QWEP257BgDP?usp=sharing) to see how to align articles in other languages with the corresponding English articles. 
+
+## Reference ##
+===========
+Please cite the following paper: 
+
+## Description ##
+===========
 
 The dataset includes ~770k article and summary pairs in 18 languages from WikiHow. We extracted gold-standard article-summary alignments across languages by aligning the images that are used to describe each how-to step in an article.
 
@@ -30,16 +39,7 @@ ______________________________
 | Czech       |     7,200     |
 | Turkish     |     4,503     |
 
-* **data/** includes the full dataset. 
-* **splits/** includes train, validation and test splits (for Spanish, Russian, Vietnamese and Turkish) used in our experiments. 
-
-## Reference ##
-
-Please cite the following paper: 
-
-
-
-
-
-
-
+## License ##
+===========
+All User Content text on WikiHow is licensed under a [Creative Commons license](http://creativecommons.org/licenses/by-nc-sa/3.0/).
+Refer to [this webpage](https://www.wikihow.com/wikiHow:Attribution) for the specific attribution guidelines. 
