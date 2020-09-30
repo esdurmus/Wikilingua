@@ -7,7 +7,7 @@ Summarization]()
 
 Download the dataset using [this link](https://drive.google.com/drive/folders/1PFvXUOsW_KSEzFm5ixB8J8BDB8zRRfHW?usp=sharing).
 
-Please refer to this [Collab notebook](https://colab.research.google.com/drive/1HxonmcM7EOQVal2I6oTi9QWEP257BgDP?usp=sharing) to see how to align articles in other languages with the corresponding English articles. 
+Please refer to this [Collab notebook](https://colab.research.google.com/drive/1HxonmcM7EOQVal2I6oTi9QWEP257BgDP?usp=sharing) to see how to align articles in other languages with the parallel English articles. 
 
 ## Reference ##
 Please cite the following paper: 
