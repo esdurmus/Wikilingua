@@ -13,7 +13,7 @@ Please refer to this [Collab notebook](https://colab.research.google.com/drive/1
 Please cite the following paper: 
 
 ```
-@inproceedings{ladhak2020,
+@inproceedings{ladhak-wiki-2020,
     title={WikiLingua: A New Benchmark Dataset for Multilingual Abstractive Summarization},
     author={Faisal Ladhak, Esin Durmus, Claire Cardie and Kathleen McKeown},
     booktitle={Findings of EMNLP, 2020},
