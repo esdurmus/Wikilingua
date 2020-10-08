@@ -12,6 +12,15 @@ Please refer to this [Collab notebook](https://colab.research.google.com/drive/1
 ## Reference ##
 Please cite the following paper: 
 
+```
+@inproceedings{ladhak2020,
+    title={WikiLingua: A New Benchmark Dataset for Multilingual Abstractive Summarization},
+    author={Faisal Ladhak, Esin Durmus, Claire Cardie and Kathleen McKeown},
+    booktitle={Findings of EMNLP, 2020},
+    year={2020}
+}
+```
+
 ## Description ##
 
 The dataset includes ~770k article and summary pairs in 18 languages from WikiHow. We extracted gold-standard article-summary alignments across languages by aligning the images that are used to describe each how-to step in an article.
