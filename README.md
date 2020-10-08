@@ -50,6 +50,6 @@ ______________________________
 
 ## License ##
 
-All User Content text on WikiHow is licensed under a [Creative Commons license](http://creativecommons.org/licenses/by-nc-sa/3.0/).
+- Article provided by wikiHow <https://www.wikihow.com/Main-Page>, a wiki building the world's largest, highest quality how-to manual. Please edit this article and find author credits at wikiHow.com. Content on wikiHow can be shared under a [Creative Commons license](http://creativecommons.org/licenses/by-nc-sa/3.0/).
 
 Refer to [this webpage](https://www.wikihow.com/wikiHow:Attribution) for the specific attribution guidelines. 
