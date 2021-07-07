@@ -1,6 +1,6 @@
 # WikiLingua: A Multilingual Abstractive Summarization Dataset #
 
-UPDATE: Train/Test splits for all 17 languages can be found at [this link](https://drive.google.com/file/d/1PM7GFCy2gJL1WHqQz1dzqIDIEN6kfRoi/view?usp=sharing). This data can be used for cross-lingual and multi-lingual summarization. 
+**UPDATE: Train/Test splits for all 17 languages can be found at [this link](https://drive.google.com/file/d/1PM7GFCy2gJL1WHqQz1dzqIDIEN6kfRoi/view?usp=sharing). This data can be used for cross-lingual and multi-lingual summarization.**
 
 This repo contains dataset introduced in the following paper: 
 
