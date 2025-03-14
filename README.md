@@ -1,16 +1,14 @@
 # WikiLingua: A Multilingual Abstractive Summarization Dataset #
 
 **UPDATE:\
-We have created new Train/Test splits for all 17 languages that can be downloaded [here](https://drive.google.com/file/d/1sTCB5NDPq6vUOlxR29DbvSssErvXLD1d/view?usp=sharing). These splits were created to ensure that there is no (document, summary) pair overlap across any of the 17 languages so that they can be safely used for multilingual evaluations.**
+We have created new Train/Test splits for all 17 languages that can be downloaded [here](https://drive.google.com/file/d/1sTCB5NDPq6vUOlxR29DbvSssErvXLD1d/view?usp=sharing). These splits were created to ensure that there is no (document, summary) pair overlap across any of the 18 languages so that they can be safely used for multilingual evaluations.**
 
 This repo contains dataset introduced in the following paper: 
 
 [WikiLingua: A New Benchmark Dataset for Multilingual Abstractive
 Summarization](https://arxiv.org/abs/2010.03093) 
 
-Download the dataset using [this link](https://drive.google.com/drive/folders/1PFvXUOsW_KSEzFm5ixB8J8BDB8zRRfHW?usp=sharing).
-
-Please refer to this [Collab notebook](https://colab.research.google.com/drive/1HxonmcM7EOQVal2I6oTi9QWEP257BgDP?usp=sharing) to see how to align articles in other languages with the parallel English articles. 
+Download the dataset using [this link](https://drive.google.com/file/d/1sTCB5NDPq6vUOlxR29DbvSssErvXLD1d/view?usp=sharing).
 
 ## Reference ##
 Please cite the following paper: 
