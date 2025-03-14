@@ -1,7 +1,7 @@
 # WikiLingua: A Multilingual Abstractive Summarization Dataset #
 
 **UPDATE:\
-We have created new Train/Test splits for all 17 languages that can be downloaded [here](https://drive.google.com/file/d/1PM7GFCy2gJL1WHqQz1dzqIDIEN6kfRoi/view?usp=sharing). These splits were created to ensure that there is no (document, summary) pair overlap across any of the 17 languages so that they can be safely used for multilingual evaluations.**
+We have created new Train/Test splits for all 17 languages that can be downloaded [here](https://drive.google.com/file/d/1sTCB5NDPq6vUOlxR29DbvSssErvXLD1d/view?usp=sharing). These splits were created to ensure that there is no (document, summary) pair overlap across any of the 17 languages so that they can be safely used for multilingual evaluations.**
 
 This repo contains dataset introduced in the following paper: 
 
